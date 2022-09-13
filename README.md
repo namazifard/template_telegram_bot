@@ -1,2 +1,13 @@
-# unknown_telegram_bot
-A Telegram Bot to connect two strange persons
+# Template for Telegram bot
+
+A template to create a Telegram Bot in Python.
+
+## How to Run
+First add `PYTHONPATH` environment variable in repository root directory by running:
+```
+export PYTHONPATH=${PWD}
+```
+Then run:
+```
+python src/bot.py
+```
