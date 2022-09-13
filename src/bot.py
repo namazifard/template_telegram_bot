@@ -3,7 +3,7 @@ import os
 import telebot
 from loguru import logger
 
-from src.constants import keyboards
+from src.utils.constants import keyboards
 
 
 class Bot:
